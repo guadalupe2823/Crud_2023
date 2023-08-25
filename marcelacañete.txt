@@ -1,0 +1,4 @@
+Mi nombre es Marcela Guadalupe Cañete, tengo 28 años. Anteriormente he concluido carreras relacionadas con la educación, salud y con la industria.
+Con respecto a la carrera en curso, mis expectativas son nulas en este momento, ya que no tengo establecido una meta en concreto para futuro, solamente relacionar los conocimientos adquiridos con los anteriores en busca de nuevas soluciones y proyectos para futuras mejorias dentro de dichos ámbitos.  Relacionar diferentes profesiones para la busca de nuevas herramientas, con el objetivo de establecer mejores formas de trabajo tanto personal como profesiones, asi mismo como dentro y fuera de una institución. 
+CRUD. Este concepto relacionado en el desarrollo y mantenimiento del software, ha sido de ayuda para la realización de bases de datos y de sistema de gestión de información. 
+En ingles la sigla CRUD tiene como significado: •	C: create (crear) •	R: read (leer) •	U: update (actualizar) •	D: delete(borrar)
